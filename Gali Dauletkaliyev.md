@@ -1,1 +1,2 @@
-It was really hard to get to know with all of the information given, i have no experience but listening to the explanation made it more relevent. I hope to get more practise and 
+It was really hard to get to know with all of the information given, i have no experience but listening to the explanation made it more relevent.I learned how to make loops, compare items using python most especially in the past days.I hope to get more practises in the future,also Python feels really simple after that.
+Looking forward to learn more and more up until i perfect all of the basics.
